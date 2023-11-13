@@ -1,4 +1,4 @@
-# Task 1 - Password Generator in Python - (By Vaibhav Mulak).
+# Password Generator in Python - (By Vaibhav Mulak).
 import string # Importing the 'string' module for accessing character sets.
 import random # Importing the 'random' module for generating random values.
 
