@@ -1,9 +1,6 @@
-# InfoByte
-Internship tasks given by Oasis InfoByte enterprise.
+# InfoByte Enterprise Internship Tasks
 
-# CodSoft Enterprise Internship Tasks
-
-Welcome to the repository for my internship tasks at Oasis InfoByte Enterprise. In this repository, you'll find the solutions and documentation for the tasks I've completed during my internship.
+Welcome to the repository for my internship tasks at Oasis InfoByte Enterprise. In this repository, you'll find the solutions and documentation for the tasks I've completed during my internship program.
 
 ## Table of Contents
 
