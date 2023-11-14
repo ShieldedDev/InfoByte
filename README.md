@@ -10,7 +10,7 @@ Welcome to the repository for my internship tasks at Oasis InfoByte Enterprise. 
 
 Below are the descriptions of the internship tasks I've worked on:
 
-1. **Task 1**: []()
+1. **Task 1**: [Weather App](https://github.com/ShieldedDev/InfoByte/blob/main/weather_app.py)
    - Description: 
    - 
 
