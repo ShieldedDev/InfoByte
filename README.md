@@ -11,7 +11,8 @@ Welcome to the repository for my internship tasks at Oasis InfoByte Enterprise. 
 Below are the descriptions of the internship tasks I've worked on:
 
 1. **Task 1**: [Weather App](https://github.com/ShieldedDev/InfoByte/blob/main/weather_app.py)
-   - Description: 
+   - Description:
+      - This Python program is a simple command-line weather application that retrieves current weather data for a specified location using the OpenWeatherMap API. The program prompts the user to enter a zip code or city name and then fetches and displays information such as temperature, weather description, humidity, and wind speed.
    - 
 
 2. **Task 2**: [BMI Calculator](https://github.com/ShieldedDev/InfoByte/blob/main/bmi_calculator.py)
