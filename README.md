@@ -14,7 +14,7 @@ Below are the descriptions of the internship tasks I've worked on:
    - Description: 
    - 
 
-2. **Task 2**: []()
+2. **Task 2**: [BMI Calculator](https://github.com/ShieldedDev/InfoByte/blob/main/bmi_calculator.py)
    - Description:
 
 3. **Task 3**: [Password Generator](https://github.com/ShieldedDev/InfoByte/blob/main/Password_Generator.py)
